@@ -1,5 +1,6 @@
 This repository is dedicated solely to NumPy and Pandas. In this repository, you will go through the basics of Numpy and Pandas.
 Numpy has been completed as of September 18, 2025.
+Pandas has been completed as of September 25, 2025.
 
 Topics covered in Numpy are as follows: 
   1. NumPy Arrays
